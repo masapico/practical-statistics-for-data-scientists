@@ -1,3 +1,10 @@
+環境設定メモ
+
+        python -m venv env
+        .\env\Scripts\Activate.ps1
+        pip install numpy pandas matplotlib seaborn scipy scikit-learn
+
+
 ![Book cover](/images/cover-small.jpg)
 
 # Code repository
